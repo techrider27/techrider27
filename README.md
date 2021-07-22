@@ -13,7 +13,7 @@ I am a Front End Web Developer.
 <br>
 I am learning Web Development and Python.
 <br>
-![hi visitor](https://visitor-badge.glitch.me/badge?page_id=techrider27.visitor-badge)
+![hi](https://visitor-badge.glitch.me/badge?page_id=techrider27.visitor-badge)
 <br>
 Skills
 <br>
