@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 -->
 ### I am a Front End Web Developer.
 <br>
-### I am learning Web Development and Python.
+I am learning Web Development and Python.
 <br>
 ![hi visitor](https://visitor-badge.glitch.me/badge?page_id=techrider27.visitor-badge.issue1)
 <br>
