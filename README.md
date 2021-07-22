@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-I am a Front End Web Developer.
-<br>
-I am learning Web Development and Python.<br>
+<h3>A Front End Web Developer.<br>
+Learning Web Development and Python.</h3>
 <h2>Skills</h2>
 <div >
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="6%" height="5%">
