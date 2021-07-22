@@ -5,10 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning web developmentn and python.
+- 🌱 I’m currently lea and python.
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-I am a Front End Web Developer
+Hi,
+I am a Front End Web Developer.
+I am learning Web Development and Python.
 <br>
-![hi visitor](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![hi visitor](https://visitor-badge.glitch.me/badge?page_id=techrider27.visitor-badge)
