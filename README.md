@@ -9,11 +9,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-### I am a Front End Web Developer.
+I am a Front End Web Developer.
 <br>
 I am learning Web Development and Python.
 <br>
-![hi visitor](https://visitor-badge.glitch.me/badge?page_id=techrider27.visitor-badge.issue1)
+![hi visitor](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 <br>
 Skills
 <br>
