@@ -10,4 +10,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am a Front End Web Developer
+<br>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
