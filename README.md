@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there people and visitors 👋
 <br>
 
 ![hello](https://visitor-badge.glitch.me/badge?page_id=$techrider27.visitor-badge)
