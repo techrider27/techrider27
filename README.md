@@ -21,5 +21,5 @@ Learning Web Development and Python.</h3>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="5%" height="3%"> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="5%">
 <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" width="5%">
-<img src="https://cdn3.iconfinder.com/data/icons/social-media-2253/25/Group-512.png" width="5%" color="green">
+<img src="https://automaticaddison.com/wp-content/uploads/2018/06/GitHub.jpg" width="5%">
 </div>
