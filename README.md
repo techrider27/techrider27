@@ -1,7 +1,7 @@
 ### Hey there people and visitors 👋
 <br>
 
-![hello](https://visitor-badge.glitch.me/badge?page_id=$techrider27.visitor-badge.issue)
+![hello](https://visitor-badge.glitch.me/badge?page_id=$techrider27.visitor-badge.issue.1)
 
 <!--
 **techrider27/techrider27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
