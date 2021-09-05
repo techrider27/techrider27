@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 <h3>A Front End Web Developer.<br>
 Learning Web Development.<br>
-python😍</h3>
+python😍<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
+</h3>
 <h2>Skills</h2>
 <div >
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="6%" height="5%">
