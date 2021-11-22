@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3>A Front End Web Developer.<br>
-Learning Web Development<br>
+Learning & Exploring Web Development<br>
 Python😍👌<br>
-Let's learn and grow.
 </h3>
 <h2>Skills</h2>
 <div >
