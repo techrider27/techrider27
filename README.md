@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-<h3>A Front End Web Developer.<br>
+<h3>A Front End Developer.<br>
 Learning & Exploring Web Development<br>
 Python😍👌<br>
 </h3>
