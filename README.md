@@ -24,4 +24,4 @@ Python😍👌<br>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="5%">
 <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" width="5%"
 </div>
-<img src="https://tenor.com/view/css-ie-gif-7190988">
+<img src="https://tenor.com/EkRQ.gif">
