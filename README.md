@@ -17,11 +17,12 @@ Learning & Exploring Web Development<br>
 😍👌<br>
 </h3>
 <h2>Skills</h2>
-<div >
+<div>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="6%" height="5%">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="6%" height="5%">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="5%" height="3%"> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="5%">
-<img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" width="5%"
+<img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" width="5%">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="5%">
 </div>
 
