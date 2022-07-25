@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h3>A Front-End Developer<br>
 Learning & Exploring Web Development<br>
 Still learing how to center a div
-😍👌<br>
+<br>
 </h3>
 <h2>Skills</h2>
 <div>
