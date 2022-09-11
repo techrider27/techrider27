@@ -8,13 +8,13 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently lea and python.
+- 🌱 I’m currently.
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
 <h3>A Front-End Developer<br>
 Learning & Exploring Web Development<br>
-Still learing how to center a div
+Still learning how to center a div
 <br>
 </h3>
 <h2>Skills</h2>
