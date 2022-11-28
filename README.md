@@ -1,4 +1,4 @@
-<img src="https://www.linkedin.com/in/g-sangewar27/overlay/background-image/" width="100%" height="auto">
+<img src="[https://www.linkedin.com/in/g-sangewar27/overlay/background-image/](https://media-exp1.licdn.com/dms/image/C5616AQHx0e2GKf2amg/profile-displaybackgroundimage-shrink_350_1400/0/1650263449400?e=1675296000&v=beta&t=HT7POf3keGVLck5jgPCUkHR9MbfGHh9zZrNEpRv0Ee0)" width="100%" height="auto">
 ### Hey there visitor, thanks for visiting 🤩😍😘👋
 <br>
 
