@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Sangewar</h1>
 <h3 align="center">A frontend developer</h3>
+<br>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/gaurav.sangewar.3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/g-sangewar27/) 
 
