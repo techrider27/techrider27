@@ -1,6 +1,6 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/gaurav.sangewar.3) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/g-sangewar27/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-sangewar/)
 [![Instagram](https://img.shields.io/badge/Instagram-%D62976.svg?logo=instagram&logoColor=white)](https://www.instagram.com/its_gauravsangewar/?igshid=NmQ2ZmYxZjA%3D)
 
 # 💻 Tech Stack:
